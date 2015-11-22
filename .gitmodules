@@ -1,0 +1,9 @@
+[submodule "client"]
+	path = client
+	url = git@github.com:haggholm/rpchat-client.git
+[submodule "lib"]
+	path = lib
+	url = git@github.com:haggholm/rpchat-lib.git
+[submodule "server"]
+	path = server
+	url = git@github.com:haggholm/rpchat-server.git
